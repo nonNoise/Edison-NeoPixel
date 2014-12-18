@@ -10,7 +10,7 @@ Edison -> mraa -> GPIO -> NeoPixel(WS2812B)
 Ver 0.01
 ----------------------------------------
 
-:OK:
+**OK**
 
 - WS2812B ( adafruit PRODUCT ID: 1426 )
 
@@ -20,7 +20,7 @@ Ver 0.01
 
 - Testing Python Wrapper.
 
-:ToDo:
+**ToDo**
 
 - Examples for C
 
